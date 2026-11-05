@@ -1,8 +1,7 @@
 streamlit
-yfinance
+yfinance>=0.2.60
 plotly
 pandas
 numpy
 requests
 lxml
-streamlit yfinance>=0.2.60 plotly pandas numpy requests lxml
